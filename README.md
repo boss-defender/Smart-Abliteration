@@ -1,6 +1,6 @@
 # Abliteration
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Abliteration/blob/main/Decensor_Ai_Model_heretic.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Smart-Abliteration/blob/main/Decensor_Ai_Model_heretic.ipynb)
 
 Created using Colab and Heretic tool for AI model abliterating.  
 
